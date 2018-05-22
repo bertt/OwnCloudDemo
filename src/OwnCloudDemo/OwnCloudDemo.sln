@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnCloudDemo", "OwnCloudDemo.csproj", "{A3262538-8A54-40B7-9CE4-6080F56F7280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3262538-8A54-40B7-9CE4-6080F56F7280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3262538-8A54-40B7-9CE4-6080F56F7280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3262538-8A54-40B7-9CE4-6080F56F7280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3262538-8A54-40B7-9CE4-6080F56F7280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AA0C219-4A08-43A3-8675-679C00D3FF95}
+	EndGlobalSection
+EndGlobal
